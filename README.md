@@ -27,15 +27,15 @@ A web application that transforms text prompts into stunning AI-generated images
 
 ## 🚀 Setup Instructions
 #### 1. Clone the repository:
-git clone https://github.com/your-username/ai-image-generator.git
-cd ai-image-generator
+* git clone https://github.com/your-username/ai-image-generator.git
+* cd ai-image-generator
 
 ### 2. Install dependencies for both frontend and backend:
-####* Frontend
+#### * Frontend
     cd frontend
     npm install
 
-####* Backend
+#### * Backend
     cd ../backend
     npm install
 
