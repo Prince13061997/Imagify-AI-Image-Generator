@@ -25,30 +25,23 @@ A web application that transforms text prompts into stunning AI-generated images
 * Razorpay Payment Gateway
 * Clipdrop API (for image generation)
 
-🚀 Setup Instructions
-Clone the repository:
-
-bash
-Copy code
+## 🚀 Setup Instructions
+#### 1. Clone the repository:
 git clone https://github.com/your-username/ai-image-generator.git
 cd ai-image-generator
-Install dependencies for both frontend and backend:
 
-bash
-Copy code
-# Frontend
-cd frontend
-npm install
+### 2. Install dependencies for both frontend and backend:
+####* Frontend
+    cd frontend
+    npm install
 
-# Backend
-cd ../backend
-npm install
-Create a .env file in the backend directory with the required environment variables.
+####* Backend
+    cd ../backend
+    npm install
 
-Run the development servers:
+#### 3. Create a .env file in the backend directory with the required environment variables.
 
-bash
-Copy code
+#### 4. Run the development servers:
 # In backend directory
 npm start
 
