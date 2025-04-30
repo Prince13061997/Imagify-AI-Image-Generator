@@ -62,6 +62,3 @@ A web application that transforms text prompts into stunning AI-generated images
     │   ├── models/         # MongoDB schema definitions
     │   ├── routes/         # Express route definitions
     │   └── controllers/    # Business logic for API endpoints
-
-## 📄 License
-#### MIT License – Free for personal and commercial use
