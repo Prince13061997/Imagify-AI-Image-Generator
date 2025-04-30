@@ -1,43 +1,29 @@
-AI Image Generator
+# AI Image Generator
 A web application that transforms text prompts into stunning AI-generated images.
 
-✨ Features
-Text-to-Image Generation: Convert text descriptions into visual art
+## ✨ Features
+* Text-to-Image Generation: Convert text descriptions into visual art
+* User Authentication: Secure login and registration system
+* Credit System: Purchase credits to generate images
+* Responsive Design: Works on all device sizes
+* Modern UI: Clean, intuitive interface with animations
 
-User Authentication: Secure login and registration system
+## 🛠 Technologies Used
+### Frontend
+* React.js
+* Tailwind CSS
+* Framer Motion (for animations)
+* React Router
+* React Toastify (for notifications)
+* Axios (for API calls)
 
-Credit System: Purchase credits to generate images
-
-Responsive Design: Works on all device sizes
-
-Modern UI: Clean, intuitive interface with animations
-
-🛠 Technologies Used
-Frontend
-React.js
-
-Tailwind CSS
-
-Framer Motion (for animations)
-
-React Router
-
-React Toastify (for notifications)
-
-Axios (for API calls)
-
-Backend
-Node.js
-
-Express.js
-
-MongoDB
-
-JWT Authentication
-
-Razorpay Payment Gateway
-
-Clipdrop API (for image generation)
+### Backend
+* Node.js
+* Express.js
+* MongoDB
+* JWT Authentication
+* Razorpay Payment Gateway
+* Clipdrop API (for image generation)
 
 🚀 Setup Instructions
 Clone the repository:
