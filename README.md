@@ -48,13 +48,13 @@ A web application that transforms text prompts into stunning AI-generated images
     # In frontend directory
     npm run dev
 
-# 📱 Usage
+## 📱 Usage
 ### 1. Register or log in to your account
 ### 2. Purchase credits through the payment gateway
 ### 3. Enter your text prompt to generate unique AI images
 ### 4. Download or share your creations
 
-# 📁 Project Structure
+## 📁 Project Structure
 
     ai-image-generator/
     ├── frontend/           # Contains all React components and pages
@@ -63,5 +63,5 @@ A web application that transforms text prompts into stunning AI-generated images
     │   ├── routes/         # Express route definitions
     │   └── controllers/    # Business logic for API endpoints
 
-# 📄 License
+## 📄 License
 ### MIT License – Free for personal and commercial use
